@@ -12,7 +12,7 @@ public class JwtFilter implements Filter {
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        // Not needed for this filter
+        
     }
 
     @Override
